@@ -1,0 +1,3 @@
+User: 58bb52dabf1457d15ee79eed LTV: 24096.0
+User: 58bb52dae49a678e3cec69da LTV: 21426.0
+User: 58bb52daa65501441a8b877f LTV: 19773.0

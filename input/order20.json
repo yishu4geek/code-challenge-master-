@@ -1,0 +1,43 @@
+[
+  {
+    "type": "ORDER",
+    "verb": "UPDATE",
+    "key": "58bb52dabf1457d15ee79eed",
+    "event_time": "2017-02-19T13:59:29",
+    "customer_id": "58bb52dab9bf4afc3f5d89f2",
+    "total_amount": "75.83 USD"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "58bb52da56c03a7882861510",
+    "event_time": "2017-02-26T21:22:09",
+    "customer_id": "58bb52dabf1457d15ee79eed",
+    "total_amount": "4.82 USD"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "58bb52dac9fe6ebaadea38c4",
+    "event_time": "2017-03-01T08:25:49",
+    "customer_id": "58bb52dae49a678e3cec69da",
+    "total_amount": "82.41 USD"
+  },
+  {
+    "type": "ORDER",
+    "verb": "NEW",
+    "key": "58bb52da1624cf6d98cb1efb",
+    "event_time": "2017-02-10T08:16:49",
+    "customer_id": "58bb52dabf1457d15ee79eed",
+    "total_amount": "87.86 USD"
+  },
+  {
+    "type": "ORDER",
+    "verb": "UPDATE",
+    "key": "58bb52da18e3846246a0810e",
+    "event_time": "2017-02-22T03:33:21",
+    "customer_id": "58bb52daa65501441a8b877f",
+    "total_amount": "76.05 USD"
+  }
+
+]
